@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">laboratorioNo2</string>
+    <string name="titulo_Laboratorio">Laboratorio No.2</string>
+    <string name="titulo_tema">Películas</string>
+    <string name="titulo_pelicula_text">El Camino: A Breaking Bad movie</string>
+    <string name="descripcion_1">#Es una película estadounidense de drama y crimen de 2019 que sirve como <b>continuación de la serie de televisión Breaking Bad </b> El creador de la serie, Vince Gilligan, sirve como escritor y director de la película, con Aaron Paul repitiendo su papel de Jesse Pinkman. La trama sigue lo que le sucede a Pinkman después de los eventos del final de la serie.\n
+        Se rumoreaba una película de Breaking Bad desde el final de la serie en 2013. Gilligan se acercó a Paul con la idea en 2017, cerca del décimo aniversario de Breaking Bad, y la filmación comenzó en secreto en Nuevo México en noviembre de 2018, con una duración de casi 60 días. \n El proyecto no se confirmó hasta agosto de 2019, cuando Netflix lanzó un avance.\n La película se lanzó digitalmente en Netflix, y limitada teatralmente, el 11 de octubre de 2019, con una emisión televisiva en una fecha posterior en AMC. Recibió críticas positivas de los críticos, quienes elogiaron el desempeño de Paul y lo notaron como un cierre para los fanáticos de la serie. \n
+    </string>
+
+
+<string name="titulo_pelicula_text2">Laland</string>
+    <string name="descripcion_2">#Es una película dramática y musical estadounidense de 2016, escrita y dirigida por Damien Chazelle, y protagonizada por Emma Stone y Ryan Gosling, una aspirante a actriz y un pianista de jazz que se conocen y enamoran en Los Ángeles, California. Estrenada en Estados Unidos el 9 de diciembre de 2016 por Summit Entertainment, es una versión moderna de los musicales hollywoodienses.El reparto de la película también incluye a J. K. Simmons, Finn Wittrock, John Legend y Rosemarie DeWitt. Tuvo su premier mundial en la 73. edición del Festival de Venecia, que se llevó a cabo del 31 de agosto al 10 de septiembre de 2016.
+        \n Ha sido elogiada por el público y la crítica siendo nominada a varios premios destacando los Globo de oro donde ganó las 7 categorías a las que estaba nominada (mejor película - Comedia o musical, director, actor y actriz de comedia o musical, guion, banda sonora y canción original), convirtiéndola en <b>la película más premiada de la historia de los Globo de Oro </b>, superando a One Flew Over the Cuckoos Nest que logró llevarse 6 premios en 1975. \n\n La película fue nominada a 14 premios Óscar, convirtiéndose en la película con más candidaturas al Óscar junto con Titanic y All About Eve, en los 89º Premios Óscar, alzándose finalmente con los de mejor director (Chazelle), mejor diseño de producción, mejor cinematografía, mejor canción original, mejor banda sonora y mejor actriz (Stone). Durante la ceremonia, se la anunció erróneamente como la ganadora del Óscar a mejor película, pero a los pocos segundos se conoció un error por parte de los presentadores. Finalmente, la ganadora fue Moonlight.
+    </string>
+
+
+</resources>
